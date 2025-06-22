@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/915b4c98-981a-4d2e-9445-41a33fa214ba)<h1 align="center"><b>Hi, I'm Mayuru Madhuranga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Mayuru Madhuranga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an IT Enthusiast</h3>
 
 <p align="center">
