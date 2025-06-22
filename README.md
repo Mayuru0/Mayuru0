@@ -1,8 +1,10 @@
 <h1 align="center"><b>Hi, I'm Mayuru Madhuranga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an IT Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0366d6&center=true&vCenter=true&width=350&lines=welcome+my+github+profile;fullstack+developer;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0366d6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full-stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
+
 
 
 
