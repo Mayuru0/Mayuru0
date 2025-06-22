@@ -122,11 +122,14 @@
   <a href="https://www.linkedin.com/in/mayuru-madhuranga-7bbb73312/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
-  <!-- Custom Portfolio Icon -->
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="/mnt/data/d244614e-599b-4e73-a54c-3a49131396a5.png" width="30" height="30" alt="Portfolio"/>
-  </a>
+ <a href="https://mayuru-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="30" height="30" alt="Portfolio"/>
+</a>
+
 </p>
+
+
+
 
 
 
