@@ -15,7 +15,8 @@
 - 🌱 I'm currently learning **Java, C#, Python, PHP, HTML, CSS, MySQL,JavaScript,TypeScript**  
 - 🤝 I studied at **Advanced Technological Institute Naiwala**  
 - 🏘 I live in **Gampaha, Sri Lanka**  
-- 📫 How to reach me: **mayurumaduranga@gmail.com**  
+- 📫 How to reach me: **mayurumaduranga@gmail.com**
+- 🏢 I worked for 6 months at Cypso Labs (Pvt) Ltd as part of my internship
 - ⚡ Fun fact: **Call me Mayuru**
 
 ---
