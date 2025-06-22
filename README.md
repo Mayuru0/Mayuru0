@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Mayuru Madhuranga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![image](https://github.com/user-attachments/assets/915b4c98-981a-4d2e-9445-41a33fa214ba)<h1 align="center"><b>Hi, I'm Mayuru Madhuranga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an IT Enthusiast</h3>
 
 <p align="center">
@@ -104,11 +104,30 @@
 
 ### 🔗 Connect with me:
 <p>
-  <a href="https://twitter.com/00_marsh_00" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="Twitter"/></a>
-  <a href="https://fb.com/mayuru madhuranga" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook"/></a>
-  <a href="https://instagram.com/_mayuru_madhuranga_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram"/></a>
-  <a href="https://discord.gg/SEfMv7jX" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30" alt="Discord"/></a>
-  <a href="https://www.youtube.com/@0_madhuranga_0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30" alt="YouTube"/></a>
-  <a href="https://www.linkedin.com/in/mayuru-madhuranga-7bbb73312/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/></a>
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank"><img src="https://png.pngtree.com/png-clipart/20210915/ourmid/pngtree-user-avatar-placeholder-black-png-image_3918427.jpg" width="30" height="30" alt="Portfolio"/></a>
+  <a href="https://twitter.com/00_marsh_00" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="Twitter"/>
+  </a>
+  <a href="https://fb.com/mayuru%20madhuranga" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/_mayuru_madhuranga_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/SEfMv7jX" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30" alt="Discord"/>
+  </a>
+  <a href="https://www.youtube.com/@0_madhuranga_0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayuru-madhuranga-7bbb73312/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>
+  <!-- Custom Portfolio Icon -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="/mnt/data/d244614e-599b-4e73-a54c-3a49131396a5.png" width="30" height="30" alt="Portfolio"/>
+  </a>
 </p>
+
+
+
+
