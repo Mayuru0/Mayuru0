@@ -1,33 +1,6 @@
 <h1 align="center"><b>Hi, I'm Mayuru Madhuranga</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I am an IT Enthusiast</h3>
-<h2 align="center" class="animated-text"></h2>
 
-<style>
-  .animated-text {
-    font-weight: bold;
-    font-size: 1.5rem;
-    text-align: center;
-    height: 2rem;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .animated-text::before {
-    content: "Welcome to my GitHub profile";
-    position: absolute;
-    animation: changeText 9s infinite;
-    width: 100%;
-    white-space: nowrap;
-  }
-
-  @keyframes changeText {
-    0% { content: "Welcome to my GitHub profile"; }
-    25% { content: "Fullstack Developer"; }
-    50% { content: "MERN Stack Developer"; }
-    75% { content: "Welcome to my GitHub profile"; }
-    100% { content: "Welcome to my GitHub profile"; }
-  }
-</style>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayuru0&label=Profile%20views&color=0e75b6&style=flat" alt="mayuru0" />
