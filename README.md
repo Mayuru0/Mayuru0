@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 </p>
 
-🔄 State Management
+### 🔄 State Management
 
 <p> <img src="https://img.shields.io/badge/Redux_RTK-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux RTK"/> <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API"/> </p>
 
